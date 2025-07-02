@@ -1,0 +1,610 @@
+Folder PATH listing for volume Data
+Volume serial number is 9E03-2695
+C:.
+├───.github
+│   └───workflows
+├───.vscode
+├───build
+├───docs
+├───lib
+│   ├───esm
+│   │   └───beautify
+│   └───umd
+│       ├───beautify
+│       ├───languageFacts
+│       │   └───data
+│       ├───parser
+│       ├───services
+│       ├───test
+│       │   └───testUtil
+│       └───utils
+├───node_modules
+│   ├───.bin
+│   ├───@eslint
+│   │   ├───config-array
+│   │   │   ├───dist
+│   │   │   │   ├───cjs
+│   │   │   │   │   └───std__path
+│   │   │   │   └───esm
+│   │   │   │       └───std__path
+│   │   │   └───node_modules
+│   │   │       ├───brace-expansion
+│   │   │       └───minimatch
+│   │   ├───config-helpers
+│   │   │   └───dist
+│   │   │       ├───cjs
+│   │   │       └───esm
+│   │   ├───core
+│   │   │   └───dist
+│   │   │       ├───cjs
+│   │   │       └───esm
+│   │   ├───eslintrc
+│   │   │   ├───conf
+│   │   │   ├───dist
+│   │   │   ├───lib
+│   │   │   │   ├───config-array
+│   │   │   │   ├───shared
+│   │   │   │   └───types
+│   │   │   └───node_modules
+│   │   │       ├───brace-expansion
+│   │   │       └───minimatch
+│   │   ├───js
+│   │   │   ├───src
+│   │   │   │   └───configs
+│   │   │   └───types
+│   │   ├───object-schema
+│   │   │   └───dist
+│   │   │       ├───cjs
+│   │   │       └───esm
+│   │   └───plugin-kit
+│   │       ├───dist
+│   │       │   ├───cjs
+│   │       │   └───esm
+│   │       └───node_modules
+│   │           └───@eslint
+│   │               └───core
+│   │                   └───dist
+│   │                       ├───cjs
+│   │                       └───esm
+│   ├───@eslint-community
+│   │   ├───eslint-utils
+│   │   └───regexpp
+│   ├───@humanfs
+│   │   ├───core
+│   │   │   ├───dist
+│   │   │   └───src
+│   │   └───node
+│   │       ├───dist
+│   │       ├───node_modules
+│   │       │   └───@humanwhocodes
+│   │       │       └───retry
+│   │       │           └───dist
+│   │       └───src
+│   ├───@humanwhocodes
+│   │   ├───module-importer
+│   │   │   ├───dist
+│   │   │   └───src
+│   │   └───retry
+│   │       └───dist
+│   ├───@isaacs
+│   │   └───cliui
+│   │       ├───build
+│   │       │   └───lib
+│   │       └───node_modules
+│   │           ├───ansi-regex
+│   │           ├───ansi-styles
+│   │           ├───emoji-regex
+│   │           │   └───es2015
+│   │           ├───string-width
+│   │           ├───strip-ansi
+│   │           └───wrap-ansi
+│   ├───@nodelib
+│   │   ├───fs.scandir
+│   │   │   └───out
+│   │   │       ├───adapters
+│   │   │       ├───providers
+│   │   │       ├───types
+│   │   │       └───utils
+│   │   ├───fs.stat
+│   │   │   └───out
+│   │   │       ├───adapters
+│   │   │       ├───providers
+│   │   │       └───types
+│   │   └───fs.walk
+│   │       └───out
+│   │           ├───providers
+│   │           ├───readers
+│   │           └───types
+│   ├───@one-ini
+│   │   └───wasm
+│   ├───@pkgjs
+│   │   └───parseargs
+│   │       ├───examples
+│   │       └───internal
+│   ├───@types
+│   │   ├───estree
+│   │   ├───json-schema
+│   │   ├───mocha
+│   │   └───node
+│   │       ├───assert
+│   │       ├───compatibility
+│   │       ├───dns
+│   │       ├───fs
+│   │       ├───readline
+│   │       ├───stream
+│   │       ├───timers
+│   │       └───ts5.6
+│   ├───@typescript-eslint
+│   │   ├───eslint-plugin
+│   │   │   ├───dist
+│   │   │   │   ├───configs
+│   │   │   │   │   ├───eslintrc
+│   │   │   │   │   └───flat
+│   │   │   │   ├───rules
+│   │   │   │   │   ├───enum-utils
+│   │   │   │   │   ├───naming-convention-utils
+│   │   │   │   │   └───prefer-optional-chain-utils
+│   │   │   │   └───util
+│   │   │   └───node_modules
+│   │   │       └───ignore
+│   │   ├───parser
+│   │   │   └───dist
+│   │   ├───project-service
+│   │   │   └───dist
+│   │   ├───scope-manager
+│   │   │   └───dist
+│   │   │       ├───definition
+│   │   │       ├───lib
+│   │   │       ├───referencer
+│   │   │       ├───scope
+│   │   │       └───variable
+│   │   ├───tsconfig-utils
+│   │   │   └───dist
+│   │   ├───type-utils
+│   │   │   └───dist
+│   │   │       └───typeOrValueSpecifiers
+│   │   ├───types
+│   │   │   └───dist
+│   │   │       └───generated
+│   │   ├───typescript-estree
+│   │   │   └───dist
+│   │   │       ├───create-program
+│   │   │       ├───jsx
+│   │   │       ├───parseSettings
+│   │   │       └───ts-estree
+│   │   ├───utils
+│   │   │   └───dist
+│   │   │       ├───ast-utils
+│   │   │       │   └───eslint-utils
+│   │   │       ├───eslint-utils
+│   │   │       ├───ts-eslint
+│   │   │       │   └───eslint
+│   │   │       └───ts-utils
+│   │   └───visitor-keys
+│   │       ├───dist
+│   │       └───node_modules
+│   │           └───eslint-visitor-keys
+│   │               ├───dist
+│   │               └───lib
+│   ├───@vscode
+│   │   ├───l10n
+│   │   │   └───dist
+│   │   └───web-custom-data
+│   │       └───data
+│   ├───abbrev
+│   │   └───lib
+│   ├───acorn
+│   │   ├───bin
+│   │   └───dist
+│   ├───acorn-jsx
+│   ├───ajv
+│   │   ├───dist
+│   │   ├───lib
+│   │   │   ├───compile
+│   │   │   ├───dot
+│   │   │   ├───dotjs
+│   │   │   └───refs
+│   │   └───scripts
+│   ├───ansi-regex
+│   ├───ansi-styles
+│   ├───argparse
+│   │   └───lib
+│   ├───balanced-match
+│   ├───brace-expansion
+│   │   └───.github
+│   ├───braces
+│   │   └───lib
+│   ├───browser-stdout
+│   ├───callsites
+│   ├───camelcase
+│   ├───chalk
+│   │   └───source
+│   ├───chokidar
+│   │   └───esm
+│   ├───cliui
+│   │   └───build
+│   │       └───lib
+│   ├───color-convert
+│   ├───color-name
+│   ├───commander
+│   │   ├───lib
+│   │   └───typings
+│   ├───concat-map
+│   │   ├───example
+│   │   └───test
+│   ├───config-chain
+│   ├───cross-spawn
+│   │   └───lib
+│   │       └───util
+│   ├───debug
+│   │   ├───node_modules
+│   │   │   └───ms
+│   │   └───src
+│   ├───decamelize
+│   ├───deep-is
+│   │   ├───example
+│   │   └───test
+│   ├───diff
+│   │   ├───dist
+│   │   └───lib
+│   │       ├───convert
+│   │       ├───diff
+│   │       ├───patch
+│   │       └───util
+│   ├───eastasianwidth
+│   ├───editorconfig
+│   │   ├───bin
+│   │   ├───lib
+│   │   └───node_modules
+│   │       └───minimatch
+│   │           └───dist
+│   │               ├───cjs
+│   │               └───mjs
+│   ├───emoji-regex
+│   │   └───es2015
+│   ├───escalade
+│   │   ├───dist
+│   │   └───sync
+│   ├───escape-string-regexp
+│   ├───eslint
+│   │   ├───bin
+│   │   ├───conf
+│   │   ├───lib
+│   │   │   ├───cli-engine
+│   │   │   │   └───formatters
+│   │   │   ├───config
+│   │   │   ├───eslint
+│   │   │   ├───languages
+│   │   │   │   └───js
+│   │   │   │       └───source-code
+│   │   │   │           └───token-store
+│   │   │   ├───linter
+│   │   │   │   └───code-path-analysis
+│   │   │   ├───rule-tester
+│   │   │   ├───rules
+│   │   │   │   └───utils
+│   │   │   │       └───unicode
+│   │   │   ├───services
+│   │   │   ├───shared
+│   │   │   └───types
+│   │   ├───messages
+│   │   └───node_modules
+│   │       ├───brace-expansion
+│   │       ├───eslint-visitor-keys
+│   │       │   ├───dist
+│   │       │   └───lib
+│   │       └───minimatch
+│   ├───eslint-scope
+│   │   ├───dist
+│   │   └───lib
+│   ├───eslint-visitor-keys
+│   │   ├───dist
+│   │   └───lib
+│   ├───espree
+│   │   ├───dist
+│   │   ├───lib
+│   │   └───node_modules
+│   │       └───eslint-visitor-keys
+│   │           ├───dist
+│   │           └───lib
+│   ├───esquery
+│   │   └───dist
+│   ├───esrecurse
+│   ├───estraverse
+│   ├───esutils
+│   │   └───lib
+│   ├───fast-deep-equal
+│   │   └───es6
+│   ├───fast-glob
+│   │   ├───node_modules
+│   │   │   └───glob-parent
+│   │   └───out
+│   │       ├───managers
+│   │       ├───providers
+│   │       │   ├───filters
+│   │       │   ├───matchers
+│   │       │   └───transformers
+│   │       ├───readers
+│   │       ├───types
+│   │       └───utils
+│   ├───fast-json-stable-stringify
+│   │   ├───.github
+│   │   ├───benchmark
+│   │   ├───example
+│   │   └───test
+│   ├───fast-levenshtein
+│   ├───fastq
+│   │   ├───.github
+│   │   │   └───workflows
+│   │   └───test
+│   ├───file-entry-cache
+│   ├───fill-range
+│   ├───find-up
+│   ├───flat
+│   │   └───test
+│   ├───flat-cache
+│   │   └───src
+│   ├───flatted
+│   │   ├───cjs
+│   │   ├───esm
+│   │   ├───php
+│   │   ├───python
+│   │   └───types
+│   ├───foreground-child
+│   │   └───dist
+│   │       ├───cjs
+│   │       └───mjs
+│   ├───get-caller-file
+│   ├───glob
+│   │   └───dist
+│   │       ├───commonjs
+│   │       └───esm
+│   ├───glob-parent
+│   ├───globals
+│   ├───graphemer
+│   │   └───lib
+│   ├───has-flag
+│   ├───he
+│   │   ├───bin
+│   │   └───man
+│   ├───ignore
+│   ├───import-fresh
+│   ├───imurmurhash
+│   ├───ini
+│   ├───is-extglob
+│   ├───is-fullwidth-code-point
+│   ├───is-glob
+│   ├───is-number
+│   ├───is-plain-obj
+│   ├───is-unicode-supported
+│   ├───isexe
+│   │   └───test
+│   ├───jackspeak
+│   │   └───dist
+│   │       ├───commonjs
+│   │       └───esm
+│   ├───js-beautify
+│   │   └───js
+│   │       ├───bin
+│   │       ├───lib
+│   │       │   └───unpackers
+│   │       └───src
+│   │           ├───core
+│   │           ├───css
+│   │           ├───html
+│   │           ├───javascript
+│   │           └───unpackers
+│   ├───js-cookie
+│   │   └───dist
+│   ├───js-yaml
+│   │   ├───bin
+│   │   ├───dist
+│   │   └───lib
+│   │       ├───schema
+│   │       └───type
+│   ├───json-buffer
+│   │   └───test
+│   ├───json-schema-traverse
+│   │   └───spec
+│   │       └───fixtures
+│   ├───json-stable-stringify-without-jsonify
+│   │   ├───example
+│   │   └───test
+│   ├───keyv
+│   │   └───src
+│   ├───levn
+│   │   └───lib
+│   ├───locate-path
+│   ├───lodash.merge
+│   ├───log-symbols
+│   ├───lru-cache
+│   │   └───dist
+│   │       ├───commonjs
+│   │       └───esm
+│   ├───merge2
+│   ├───micromatch
+│   ├───minimatch
+│   │   └───dist
+│   │       ├───commonjs
+│   │       └───esm
+│   ├───minipass
+│   │   └───dist
+│   │       ├───commonjs
+│   │       └───esm
+│   ├───mocha
+│   │   ├───bin
+│   │   ├───lib
+│   │   │   ├───browser
+│   │   │   ├───cli
+│   │   │   ├───interfaces
+│   │   │   ├───nodejs
+│   │   │   │   └───reporters
+│   │   │   └───reporters
+│   │   └───node_modules
+│   │       └───supports-color
+│   ├───ms
+│   ├───natural-compare
+│   ├───nopt
+│   │   ├───bin
+│   │   └───lib
+│   ├───optionator
+│   │   └───lib
+│   ├───p-limit
+│   ├───p-locate
+│   ├───p-try
+│   ├───package-json-from-dist
+│   │   └───dist
+│   │       ├───commonjs
+│   │       └───esm
+│   ├───parent-module
+│   ├───path-exists
+│   ├───path-key
+│   ├───path-scurry
+│   │   ├───dist
+│   │   │   ├───commonjs
+│   │   │   └───esm
+│   │   └───node_modules
+│   │       └───lru-cache
+│   │           └───dist
+│   │               ├───commonjs
+│   │               └───esm
+│   ├───picocolors
+│   ├───picomatch
+│   │   └───lib
+│   ├───prelude-ls
+│   │   └───lib
+│   ├───proto-list
+│   │   └───test
+│   ├───punycode
+│   ├───queue-microtask
+│   ├───randombytes
+│   ├───readdirp
+│   │   └───esm
+│   ├───require-directory
+│   ├───resolve-from
+│   ├───reusify
+│   │   ├───.github
+│   │   │   └───workflows
+│   │   └───benchmarks
+│   ├───rimraf
+│   │   ├───dist
+│   │   │   ├───commonjs
+│   │   │   └───esm
+│   │   └───node_modules
+│   │       ├───.bin
+│   │       ├───glob
+│   │       │   └───dist
+│   │       │       ├───commonjs
+│   │       │       └───esm
+│   │       ├───jackspeak
+│   │       │   └───dist
+│   │       │       ├───commonjs
+│   │       │       └───esm
+│   │       ├───minimatch
+│   │       │   └───dist
+│   │       │       ├───commonjs
+│   │       │       └───esm
+│   │       └───path-scurry
+│   │           └───dist
+│   │               ├───commonjs
+│   │               └───esm
+│   ├───run-parallel
+│   ├───safe-buffer
+│   ├───semver
+│   │   ├───bin
+│   │   ├───classes
+│   │   ├───functions
+│   │   ├───internal
+│   │   └───ranges
+│   ├───serialize-javascript
+│   ├───shebang-command
+│   ├───shebang-regex
+│   ├───signal-exit
+│   │   └───dist
+│   │       ├───cjs
+│   │       └───mjs
+│   ├───string-width
+│   ├───string-width-cjs
+│   ├───strip-ansi
+│   ├───strip-ansi-cjs
+│   ├───strip-json-comments
+│   ├───supports-color
+│   ├───to-regex-range
+│   ├───ts-api-utils
+│   │   └───lib
+│   ├───type-check
+│   │   └───lib
+│   ├───typescript
+│   │   ├───bin
+│   │   └───lib
+│   │       ├───cs
+│   │       ├───de
+│   │       ├───es
+│   │       ├───fr
+│   │       ├───it
+│   │       ├───ja
+│   │       ├───ko
+│   │       ├───pl
+│   │       ├───pt-br
+│   │       ├───ru
+│   │       ├───tr
+│   │       ├───zh-cn
+│   │       └───zh-tw
+│   ├───undici-types
+│   ├───uri-js
+│   │   └───dist
+│   │       ├───es5
+│   │       └───esnext
+│   │           └───schemes
+│   ├───vscode-languageserver-textdocument
+│   │   └───lib
+│   │       ├───esm
+│   │       └───umd
+│   ├───vscode-languageserver-types
+│   │   └───lib
+│   │       ├───esm
+│   │       └───umd
+│   ├───vscode-uri
+│   │   └───lib
+│   │       ├───esm
+│   │       └───umd
+│   ├───which
+│   │   └───bin
+│   ├───word-wrap
+│   ├───workerpool
+│   │   ├───dist
+│   │   └───src
+│   │       └───generated
+│   ├───wrap-ansi
+│   ├───wrap-ansi-cjs
+│   ├───y18n
+│   │   └───build
+│   │       └───lib
+│   │           └───platform-shims
+│   ├───yargs
+│   │   ├───build
+│   │   │   └───lib
+│   │   │       ├───typings
+│   │   │       └───utils
+│   │   ├───helpers
+│   │   ├───lib
+│   │   │   └───platform-shims
+│   │   └───locales
+│   ├───yargs-parser
+│   │   └───build
+│   │       └───lib
+│   └───yargs-unparser
+└───src
+    ├───beautify
+    │   └───esm
+    ├───languageFacts
+    │   └───data
+    ├───parser
+    ├───services
+    ├───test
+    │   ├───pathCompletionFixtures
+    │   │   ├───about
+    │   │   │   └───media
+    │   │   └───src
+    │   └───testUtil
+    └───utils
